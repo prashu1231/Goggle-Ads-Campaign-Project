@@ -192,6 +192,6 @@ The project highlights practical skills in lead generation, campaign optimizatio
 
 ### 👨‍💻 Developed By
 
-**Prashu**
-MBA Student | Business Analytics Specialization
-Passionate about Data Analytics, Marketing Analytics, and Digital Marketing.
+**P. Naga Sowmya**
+MBA Student | Marketing Specialization
+Passionate about Digital Marketing.
