@@ -192,6 +192,6 @@ The project highlights practical skills in lead generation, campaign optimizatio
 
 ### 👨‍💻 Developed By
 
-**P. Naga Sowmya**
+**Durga Prasad**
 MBA Student | Marketing Specialization
 Passionate about Digital Marketing.
